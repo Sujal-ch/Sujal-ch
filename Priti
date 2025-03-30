@@ -1,0 +1,38 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Just for You ❤️</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #ffe6e6;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .popup {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+        img {
+            width: 200px;
+            border-radius: 10px;
+        }
+        .message {
+            font-size: 20px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="popup">
+        <img src="https://photos.app.goo.gl/j7Bn6k3ic932Samx6" alt="Her Photo">
+        <p class="message">Hey Love! Just wanted to remind you how special you are ❤️</p>
+    </div>
+</body>
+</html>
